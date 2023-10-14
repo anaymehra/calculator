@@ -1,0 +1,39 @@
+.heading {
+    font-size: 3rem;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkslategray;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+.bg {
+    background-color:rgb(33, 25, 14);
+}
+.btn {
+    font-size: 2rem;
+    padding: 1.75%;
+    margin: 5px;
+    width: 90px;
+    max-height: 130px;
+    border-radius: 10%;
+    box-shadow: 2px 2px;
+    cursor: pointer;
+    background-color: gainsboro;
+}
+.conatiner{
+    margin: 200px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+.row input {
+    font-size: 1rem;
+    width: 190px;
+    padding: 15px 60px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-radius: 10px;
+}
